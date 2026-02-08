@@ -90,3 +90,5 @@ Electrical (1st stage):
 └──── Navigation (3rd stage)
 └──── Admin (3rd stage)
 ```
+
+**Or use the map to catch Impostors faking the tasks**
