@@ -60,6 +60,7 @@ And this the last of change to get a common task if its was set in **Lobby Setti
 | Fixing Wiring | 50% |
 
 - [x] Common Task: 2
+
 | Task Name | Chance |
 |--------|-------|
 | Swipe Card | 100% |
