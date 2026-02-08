@@ -1,4 +1,8 @@
 # Among Us Docs:
+<p align="center">
+  <img src="amongusapi.png" width="180" />
+</p>
+<h1 align="center">Among Us API</h1>
 > [!WARNING]
 > We are not from Innersloth, we are simply users or players of the Among Us game
 
