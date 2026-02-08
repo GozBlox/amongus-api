@@ -46,4 +46,5 @@ Fixing Wires is located in **Cafeteria/Security/Electrical/Navigation/Admin**
 | Navigation | 5% | 30% | 15% |
 | Electrical | 50% | 0% | 0% |
 | Security | 0% | 0% | 50% |
+
 -# stage rate information are from among us wiki
