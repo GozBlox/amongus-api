@@ -8,4 +8,4 @@ This role is to transform or impersonate or shift another player, And pretends t
 - [x] Player Pet
 
 **The Things that you will not be having is:**
-- [] Player Tasks
+- [x] Player Tasks
