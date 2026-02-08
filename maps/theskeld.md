@@ -61,7 +61,9 @@ And this the last of change to get a common task if its was set in **Lobby Setti
 
 if you're impostor to make sure that the **Swipe Card** or **Fixing Wiring** is avaliable open **Task List** and you will find:
 - [x] Admin: Swipe Card
+
 or
+
 - [x] Location: Fixing Wiring (0/3)
 
 if you become impostor use this map:
