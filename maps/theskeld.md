@@ -59,12 +59,20 @@ And this the last of change to get a common task if its was set in **Lobby Setti
 | Swipe Card | 50% |
 | Fixing Wiring | 50% |
 
+- [x] Common Task: 2
+| Task Name | Chance |
+|--------|-------|
+| Swipe Card | 100% |
+| Fixing Wiring | 100% |
+
 if you're impostor to make sure that the **Swipe Card** or **Fixing Wiring** is avaliable open **Task List** and you will find:
 - [x] Admin: Swipe Card
 
 or
 
 - [x] Location: Fixing Wiring (0/3)
+
+or you can find both if Common Task are 2
 
 if you become impostor use this map:
 
