@@ -34,9 +34,9 @@ Common Tasks are tasks shared by all Crewmates, and these tasks are:
 
 Swipe Card is located in **Admin** (South East of Cafeteria)
 
-Fixing Wires is located in **Cafeteria/Security/Electrical/Navigation/Admin**
+Fixing Wiring is located in **Cafeteria/Security/Electrical/Navigation/Admin**
 
-**Fixing Wires have 3 stages to finish and these are the stages:**
+**Fixing Wiring have 3 stages to finish and these are the stages:**
 
 | Location Name | 1st Stage rate | 2nd Stage rate | 3rd Stage rate |
 |--------------|---------------|---------------|---------------|
@@ -47,4 +47,35 @@ Fixing Wires is located in **Cafeteria/Security/Electrical/Navigation/Admin**
 | Electrical   | 50%           | 0%            | 0%            |
 | Security     | 0%            | 0%            | 50%           |
 
--# stage rate information are from among us wiki
+```
+Stages Information are from Among Us Wiki
+```
+
+And this the last of change to get a common task if its was set in **Lobby Settings** like this:
+- [x] Common Task: 1
+
+| Task Name | Chance |
+|--------|-------|
+| Swipe Card | 50% |
+| Fixing Wiring | 50% |
+
+if you're impostor to make sure that the **Swipe Card** or **Fixing Wiring** is avaliable open **Task List** and you will find:
+- [x] Admin: Swipe Card
+or
+- [x] Location: Fixing Wiring (0/3)
+
+if you become impostor use this map:
+
+```
+Electrical (1st stage):
+├── Navigation (2nd stage)
+├── Cafeteria (2nd stage)
+├── Admin (2nd stage)
+├── Storage (2nd stage)
+├── Cafeteria (2nd stage)
+│
+└──── Security (3rd stage)
+└──── Cafeteria (3rd stage)
+└──── Navigation (3rd stage)
+└──── Admin (3rd stage)
+```
