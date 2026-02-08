@@ -39,12 +39,12 @@ Fixing Wires is located in **Cafeteria/Security/Electrical/Navigation/Admin**
 **Fixing Wires have 3 stages to finish and these are the stages:**
 
 | Location Name | 1st Stage rate | 2nd Stage rate | 3rd Stage rate |
-|--------|-------|
-| Admin | 15% | 30% | 5% |
-| Storage | 30% | 20% | 0% |
-| Cafeteria | 0% | 20% | 30% |
-| Navigation | 5% | 30% | 15% |
-| Electrical | 50% | 0% | 0% |
-| Security | 0% | 0% | 50% |
+|--------------|---------------|---------------|---------------|
+| Admin        | 15%           | 30%           | 5%            |
+| Storage      | 30%           | 20%           | 0%            |
+| Cafeteria    | 0%            | 20%           | 30%           |
+| Navigation   | 5%            | 30%           | 15%           |
+| Electrical   | 50%           | 0%            | 0%            |
+| Security     | 0%            | 0%            | 50%           |
 
 -# stage rate information are from among us wiki
