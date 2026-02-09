@@ -16,7 +16,8 @@
     </td>
   </tr>
 </table>
-The Scientist appeared in the biggest update to Among Us, which was the update **V2021.11.09 (9 November 2021)**, The role appeared with many others such as ShapeShifter, Engineer and others..., The Role feature is a usefulfor checking the Vitals of Crewmates to see if they are alive or dead. If they are dead, the button will be red; blue means alive; and gray means they died in the previous rounds, However, there is a battery duration for the list and a specific duration set by the Lobby Host in the settings
+
+The Scientist appeared in the biggest update to Among Us, which was the update **V2021.11.09 (9 November 2021)** , The role appeared with many others such as ShapeShifter, Engineer and others..., The Role feature is a usefulfor checking the Vitals of Crewmates to see if they are alive or dead. If they are dead, the button will be red; blue means alive; and gray means they died in the previous rounds, However, there is a battery duration for the list and a specific duration set by the Lobby Host in the settings
 
 Also, This feature is also available to all Crewmates in [The Airship](airship.md) and [The Polus](polus.md) maps, But it's only in certain places and not always with you
 
