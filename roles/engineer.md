@@ -48,7 +48,7 @@ However, if Communications is sabotaged, you will not be able to Vent and the bu
 
 ## Vent In Maps:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GozBlox/amongus-api/main/mapvent.png" width="700" />
+  <img src="https://raw.githubusercontent.com/GozBlox/amongus-api/main/mapvent.png" width="1000" />
 </p>
 <h1 align="center">Connected Vents</h1>
 
