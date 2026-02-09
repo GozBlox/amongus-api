@@ -1,7 +1,7 @@
 # What is The Skeld Map:
 
 <p align="center">
-  <img src="theskeldmap.png" width="250" />
+  <img src="https://raw.githubusercontent.com/GozBlox/amongus-api/main/theskeldmap.png" width="300" />
 </p>
 
 <h1 align="center">The Skeld</h1>
