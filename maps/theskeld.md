@@ -1,7 +1,7 @@
 # What is The Skeld Map:
 
 <p align="center">
-  <img src="theskeldmap.png" width="400" />
+  <img src="theskeldmap.png" width="250" />
 </p>
 
 <h1 align="center">The Skeld</h1>
