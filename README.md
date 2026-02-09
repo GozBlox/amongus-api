@@ -19,7 +19,7 @@ Hello, this repository teaches players what Among Us is, how to play it, what's 
 ## Maps Docs:
 **Maps Docs** that avaliable right now is:
 
-- [The Skeld](theskeld.md)
+- [The Skeld](maps/theskeld.md)
 
 ### About Me:
 - Zakaria: 22 Years Old
