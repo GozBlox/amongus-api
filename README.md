@@ -12,9 +12,9 @@ Hello, this repository teaches players what Among Us is, how to play it, what's 
 ## Roles Docs:
 **Roles Docs** that avaliable right now is:
 
-- [Engineer](engineer.md)
+- [Engineer](roles/engineer.md)
 
-- [Scientist](scientist.md)
+- [Scientist](roles/scientist.md)
 
 ## Maps Docs:
 **Maps Docs** that avaliable right now is:
