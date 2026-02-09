@@ -1,7 +1,7 @@
 # What is The Skeld Map:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GozBlox/amongus-api/main/theskeldmap.png" width="300" />
+  <img src="https://raw.githubusercontent.com/GozBlox/amongus-api/main/theskeldmap.png" width="400" />
 </p>
 
 <h1 align="center">The Skeld</h1>
@@ -83,12 +83,38 @@ Electrical (1st stage):
 ├── Cafeteria (2nd stage)
 ├── Admin (2nd stage)
 ├── Storage (2nd stage)
-├── Cafeteria (2nd stage)
 │
 └──── Security (3rd stage)
 └──── Cafeteria (3rd stage)
 └──── Navigation (3rd stage)
 └──── Admin (3rd stage)
+-------------------------------
+Storage (1st stage):
+├── Navigation (2nd stage)
+├── Cafeteria (2nd stage)
+├── Admin (2nd stage)
+│
+└──── Security (3rd stage)
+└──── Cafeteria (3rd stage)
+└──── Navigation (3rd stage)
+└──── Admin (3rd stage)
+-------------------------------
+Admin (1st stage):
+├── Navigation (2nd stage)
+├── Cafeteria (2nd stage)
+├── Storage (2nd stage)
+│
+└──── Security (3rd stage)
+└──── Cafeteria (3rd stage)
+└──── Navigation (3rd stage)
+-------------------------------
+Navigation (1st stage):
+├── Cafeteria (2nd stage)
+├── Admin (2nd stage)
+├── Storage (2nd stage)
+│
+└──── Security (3rd stage)
+└──── Cafeteria (3rd stage)
+└──── Admin (3rd stage)
 ```
-
-**Or use the map to catch Impostors faking the tasks**
+**Don't forgot to choose 2nd stage/3rd stage by yourself, this is the best method to fake or catch the impostors faking wiring (even if its there in the task list**
