@@ -1,7 +1,7 @@
 # What is The Skeld Map:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GozBlox/amongus-api/main/theskeldmap.png" width="1000" />
+  <img src="https://raw.githubusercontent.com/GozBlox/amongus-api/main/theskeldmap.png" width="400" />
 </p>
 
 <h1 align="center">The Skeld</h1>
@@ -12,20 +12,20 @@ Skeld is the first map created in Among Us in 2018. The map contains 14 areas an
 - Long Task
 
 And these are the 14 areas in **The Skeld** Map:
-- **Cafeteria (Spawn Location)
-- Admin
-- MedBay
-- Upper Engine
-- Security
-- Reactor
-- Lower Engine
-- Electrical
-- Storage
-- Communications
-- Shields
-- Navigation
-- O2
-- Weapons**
+- **Cafeteria (Spawn Location)**
+- **Admin**
+- **MedBay**
+- **Upper Engine**
+- **Security**
+- **Reactor**
+- **Lower Engine**
+- **Electrical**
+- **Storage**
+- **Communications**
+- **Shields**
+- **Navigation**
+- **O2**
+- **Weapons**
 
 ## Common Task:
 Common Tasks are tasks shared by all Crewmates, and these tasks are:
@@ -118,3 +118,22 @@ Navigation (1st stage):
 └──── Admin (3rd stage)
 ```
 **Don't forgot to choose 2nd stage/3rd stage by yourself, this is the best method to fake or catch the impostors faking wiring (even if its there in the task list**
+
+## Short Tasks:
+**Short Tasks** is the tasks that take short time to finish such as: **Divert Power** and here the list of **Short Tasks** with their location:
+
+- **Divert Power (1st stage at electrical, 2nd stage could be at lower/upper engine, security, communications, shields, navigation, o2, weapons) and these are the change to get the 2nd stage in different locations**:
+
+| 2nd Stage | Chance |
+|--------|-------|
+| Upper Engine | 14.28% |
+| Lower Engine | 14.28% |
+| Security | 14.28% |
+| Communications | 14.28% |
+| Shields | 14.28% |
+| Navigation | 14.28% |
+| O2 | 14.28% |
+| Weapons | 14.28% |
+
+- **Stabilize Steering (Navigation)**
+
