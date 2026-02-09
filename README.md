@@ -11,12 +11,15 @@ Hello, this repository teaches players what Among Us is, how to play it, what's 
 
 ## Roles Docs:
 **Roles Docs** that avaliable right now is:
-[Engineer](engineer.md)
-[Scientist](scientist.md)
+
+- [Engineer](engineer.md)
+
+- [Scientist](scientist.md)
 
 ## Maps Docs:
 **Maps Docs** that avaliable right now is:
-[The Skeld](theskeld.md)
+
+- [The Skeld](theskeld.md)
 
 ### About Me:
 - Zakaria: 22 Years Old
