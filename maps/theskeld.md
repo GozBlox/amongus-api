@@ -126,14 +126,14 @@ Navigation (1st stage):
 
 | 2nd Stage | Chance |
 |--------|-------|
-| Upper Engine | 14.28% |
-| Lower Engine | 14.28% |
-| Security | 14.28% |
-| Communications | 14.28% |
-| Shields | 14.28% |
-| Navigation | 14.28% |
-| O2 | 14.28% |
-| Weapons | 14.28% |
+| Upper Engine | 12.50% |
+| Lower Engine | 12.50% |
+| Security | 12.50% |
+| Communications | 12.50% |
+| Shields | 12.50% |
+| Navigation | 12.50% |
+| O2 | 12.50% |
+| Weapons | 12.50% |
 
 - **Stabilize Steering (Navigation)**
 
