@@ -137,3 +137,9 @@ Navigation (1st stage):
 
 - **Stabilize Steering (Navigation)**
 
+
+## Connected Vents:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GozBlox/amongus-api/main/mapvent.png" width="400" />
+</p>
+- Vents that are the same color mean you can go through them, such as Security, MedBay, Electrical 
