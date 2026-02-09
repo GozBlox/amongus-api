@@ -21,6 +21,9 @@ Hello, this repository teaches players what Among Us is, how to play it, what's 
 
 - [The Skeld](maps/theskeld.md)
 
+> [!WARNING]
+> if you want to Contribution in this repo, make sure to add correct infos, and don't steal infos from people or among us wiki (taking info from among us wiki allowed ONLY, to download icons, get stats like: stage rate for fixing wiring)
+
 ### About Me:
 - Zakaria: 22 Years Old
 - Algerian 🇩🇿
