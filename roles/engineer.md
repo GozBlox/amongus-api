@@ -32,7 +32,7 @@ However, if Communications is sabotaged, you will not be able to Vent and the bu
 ## Recommended Methods:
 - if you're an engineer and wanna caught an **impostor** killing or venting here the methods you can use:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GozBlox/amongus-api/main/trianglemethod.png" width="180" />
+  <img src="https://raw.githubusercontent.com/GozBlox/amongus-api/main/trianglemethod.png" width="1000" />
 </p>
 <h1 align="center">1st Bermuda Method</h1>
 
@@ -40,7 +40,7 @@ However, if Communications is sabotaged, you will not be able to Vent and the bu
   - Also if the body is normal and you saw the killer and you checked his level is very low (Level 20 and below) means he's the killer (but don't forgot to chase him until he unss, if he didnt unss, then you know what to do
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GozBlox/amongus-api/main/secondtrainglemethod.png" width="180" />
+  <img src="https://raw.githubusercontent.com/GozBlox/amongus-api/main/secondtrainglemethod.png" width="1000" />
 </p>
 <h1 align="center">2nd Bermuda Method</h1>
 
