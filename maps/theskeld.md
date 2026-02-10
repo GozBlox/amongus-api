@@ -6,10 +6,11 @@
 
 <h1 align="center">The Skeld</h1>
 
-Skeld is the first map created in Among Us in 2018. The map contains 14 areas and 19 tasks divided into 3 sections and these sections are:
+Skeld is the first map created in Among Us in 2018. The map contains 14 areas and 19 tasks divided into 4 sections and these sections are:
 - Common Task
 - Short Task
 - Long Task
+- Visual Tasks
 
 And these are the 14 areas in **The Skeld** Map:
 - **Cafeteria (Spawn Location)**
@@ -141,10 +142,30 @@ Navigation (1st stage):
 - [Clean Vent](tasks/cleanvent.md) **(Located in all areas that have vent)**
 - [Clear Asteroids](tasks/clear_asteroids.md) **(Weapons)**
 - [Prime Shields](tasks/primeshields.md) **(Shields)**
-- [Download Data](tasks/download_data.md) **(Can be located at: Cafeteria, Weapons, Navigation, Communications, Electrical)
+- [Download Data](tasks/download_data.md) **(Can be located at: Cafeteria, Weapons, Navigation, Communications, Electrical)**
 - [Upload Data](tasks/upload_data.md) **(Admin)**
 - [Unlock Manifolds](tasks/unlock_manifolds.md) **(Reactor)**
 - [Chart Course](tasks/chart_source.md) **Navigation**
+
+## Long Tasks:
+**Long Tasks** are the tasks that takes long time to finish such as: [Start Reactor](tasks/start_reactor.md) and here the list of **Long Tasks** in **The Skeld**:
+- [Start Reactor](tasks/start_reactor.md) **(Reactor)**
+- [Submit Scan](tasks/submit_scan.md) **(MedBay)**
+- [Inspect Sample](tasks/inspect_sample.md) **(MedBay)**
+- [Empty Garbage](tasks/empty_garbage.md) **(1st stage in cafeteria or o2 and the o2 one called Empty Cache and the cafeteria one called Empty Garbage, and the 2nd stage at Storage)** 
+- [Fuel Engines](tasks/fuel_engines.md) **(1st stage at upper engine, 2nd stage at lower engine)**
+- [Align Engine Output](tasks/align_engine_output.md) **(1st stage at upper engine, 2nd stage at lower engine)**
+
+## Visual Tasks:
+**Visual Tasks** are the tasks that can make you safe or clear to proof you are aren't impostor, sometimes some lobbies disabling this feature, however there only one **Task** that can make you clear even if the **Visual Tasks** are off and we are gonna show the list of the visual tasks and that one task:
+
+- [Clear Asteroids](tasks/clear_asteroids.md) **(This Task at Weapons and you to make yourself clear the visuals need to be on, so the players can see you doing the task)**
+
+- [Submit Scan](tasks/submit_scan.md) **(At Medbay, and this the only task that you can do or make yourself clear even if Visuals are off, but how??, when you do the Submit Scan, you will move slowly and a movement that impostor can't do, and to make sure he isn't faking, if you have the task and you saw someone doing it, try to click use in the task and if you saw, someone is doing the scan with his exact name, means he's safe and doing scan, however, the ghosts can do the scan and prevent the alive players from doing it, the players have to wait until the ghost complete the scan, also the alive players can see which ghost player is doing the scan)**
+
+- [Prime Shields](tasks/primeshields.md) **(This tasks located in shields, and its visuals: on very required, to see if someone doing the scan, see the lights that outside the map in shields, there two wide lights close to the vent outside the map, if you saw the lights on while the player doing the task, he's 100% safe)**
+
+- [Empty Garbage](tasks/empty_garbage.md) **(there are 2 stages to finish, first one, it could be in O2 or North of Cafeteria closer to download, doing it, it will unlock the 2nd stage in storage and this is the important, visuals on is required to see the trash getting out the map, if visuals on and you saw no trash is out, VOTE HIM, when you finish the task the trash will be throwed out the map and you can see it ONLY IF VISUALS ARE ON)**
 
 ## Connected Vents:
 <p align="center">
