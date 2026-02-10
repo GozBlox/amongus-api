@@ -122,7 +122,7 @@ Navigation (1st stage):
 ## Short Tasks:
 **Short Tasks** is the tasks that take short time to finish such as: **Divert Power** and here the list of **Short Tasks** with their location:
 
-- **Divert Power (1st stage at electrical, 2nd stage could be at lower/upper engine, security, communications, shields, navigation, o2, weapons) and these are the change to get the 2nd stage in different locations**:
+- [Divert Power](tasks/divertpower.md) (1st stage at electrical, 2nd stage could be at lower/upper engine, security, communications, shields, navigation, o2, weapons) and these are the change to get the 2nd stage in different locations**:
 
 | 2nd Stage | Chance |
 |--------|-------|
@@ -135,8 +135,16 @@ Navigation (1st stage):
 | O2 | 12.50% |
 | Weapons | 12.50% |
 
-- **Stabilize Steering (Navigation)**
-
+- [Stabilize Steering](tasks/stabilize_steering.md) **(NNavigation)**
+- [Clean O2 Filter](tasks/cleano2filter.md) **(O2)**
+- [Calibrate Distributor](tasks/calibrate_distributor.md) **(Electrical)**
+- [Clean Vent](tasks/cleanvent.md) **(Located in all areas that have vent)**
+- [Clear Asteroids](tasks/clear_asteroids.md) **(Weapons)**
+- [Prime Shields](tasks/primeshields.md) **(Shields)**
+- [Download Data](tasks/download_data.md) **(Can be located at: Cafeteria, Weapons, Navigation, Communications, Electrical)
+- [Upload Data](tasks/upload_data.md) **(Admin)**
+- [Unlock Manifolds](tasks/unlock_manifolds.md) **(Reactor)**
+- [Chart Course](tasks/chart_source.md) **Navigation**
 
 ## Connected Vents:
 <p align="center">
