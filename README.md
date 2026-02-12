@@ -20,9 +20,10 @@ Hello, this repository teaches players what Among Us is, how to play it, what's 
 **Maps Docs** that avaliable right now is:
 
 - [The Skeld](maps/theskeld.md)
+- [Polus](maps/polus.md)
 
 > [!WARNING]
-> if you want to Contribution in this repo, make sure to add correct infos, and don't steal infos from people or among us wiki (taking info from among us wiki allowed ONLY, to download icons, get stats like: stage rate for fixing wiring)
+> if you want to Contribution in this repo, make sure to add correct infos, and don't steal infos from people or among us wiki (taking info from among us wiki allowed ONLY, to download icons, get stats like: stage rate for fixing wiring), and AI Generated is not allowed at all, to contribution you need to have knowledge and experience in the game and sometimes its required to have level 80+
 
 ### About Me:
 - Zakaria: 22 Years Old
