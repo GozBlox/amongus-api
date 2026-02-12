@@ -144,6 +144,7 @@ Navigation (1st stage):
 - [Prime Shields](tasks/primeshields.md) **(Shields)**
 - [Download Data](tasks/download_data.md) **(Can be located at: Cafeteria, Weapons, Navigation, Communications, Electrical)**
 - [Upload Data](tasks/upload_data.md) **(Admin)**
+ - Remember that [Download Data](tasks/download_data.md) is the 1st stage of [Upload Data](tasks/upload_data.md)
 - [Unlock Manifolds](tasks/unlock_manifolds.md) **(Reactor)**
 - [Chart Course](tasks/chart_source.md) **Navigation**
 
